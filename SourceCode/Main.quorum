@@ -24,6 +24,10 @@ class Main
 
     end
 
+    action HearBearSound()
+
+    end
+
     action SetupArrays()
         animalNames:Add("Horse")
         animalNames:Add("Rooster")
