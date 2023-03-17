@@ -1,0 +1,13 @@
+{
+    "DevelopmentEnvironmentVersion" : "Quorum Studio 4.5.0",
+    "ExecutableName" : "Default",
+    "IOS_BUNDLE" : "org.quorumlanguage",
+    "IOS_DEVICE" : "iPhone 12 Simulator",
+    "ImageSheetEnabled" : false,
+    "ImageSheetRebuildOnCompile" : false,
+    "Main" : "/SourceCode/Main.quorum",
+    "MobileAssets" : "/media",
+    "ProjectName" : "teals-AnimalSounds",
+    "ProjectType" : "JavaType",
+    "iosVersion" : "15.0"
+}
